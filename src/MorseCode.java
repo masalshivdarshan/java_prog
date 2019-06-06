@@ -1,5 +1,6 @@
 //============MorseCode,BinaryValue and ASCII value===========//
 //check with git///
+////
 public class MorseCode {
 	 static String morseEncode(char x)  
 	    { 
